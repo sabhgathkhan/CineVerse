@@ -286,8 +286,8 @@ Reusable CSS classes defined in `index.css`: `.btn-primary`, `.btn-secondary`, `
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@sabhgathkhan](https://github.com/sabhgathkhan)
+- LinkedIn: [linkedin.com/in/sabhgath_khan](https://linkedin.com/in/sabhgath-khan)
 
 ---
 
